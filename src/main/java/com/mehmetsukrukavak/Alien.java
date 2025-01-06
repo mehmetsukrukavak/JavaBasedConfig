@@ -1,7 +1,5 @@
 package com.mehmetsukrukavak;
 
-import java.beans.ConstructorProperties;
-
 public class Alien {
 
     private int age;
